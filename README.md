@@ -29,7 +29,7 @@
 
 Twitter: [@richardjtelford][twitter]  
 ORCiD: [0000-0001-9826-3076](https://orcid.org/0000-0001-9826-3076)  
-Blog: [quantpalaeo](https://quantpalaeo.wordpress.com/)
+Blog: [quantpalaeo](https://quantpalaeo.wordpress.com/)  
 Cristin: [Cristin][Cristin]
 
 
