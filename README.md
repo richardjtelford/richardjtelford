@@ -1,32 +1,38 @@
-### Hi there 👋
+### Hello world
 
-## Repos for paper
+## I am
+
+- a palaeoecologist at the University of Bergen, Norway
+- interested in quantitative palaeoecology
+- keen to make research in ecology and palaeoecology more reproducible
+- the organiser of R-klubben, a drop-in peer-to-peer R help session at the Department of Bioscience
+
+## Repos for papers
+
+- Review and test of reproducibility of subdecadal resolution palaeoenvironmental reconstructions from microfossil assemblages [**Telford (2019)**](https://github.com/richardjtelford/Zabinskie)
 
 ## Repos for preprints
 
+- Tools for identifying unexpectedly low microfossil counts [**Telford (2019)**](https://github.com/richardjtelford/count.check.ms)
+
 ## Repos for R packages
 
+- [**palaeoSig**](https://github.com/richardjtelford/palaeoSig) Significance tests for transfer functions for quantitative palaeoenvironmental reconstructions
+- [**countSum**](https://github.com/richardjtelford/countSum) Estimate count sums from microfossil percent data
 
-## Contact
+## Repos for teaching
 
-Twitter: [@richardjtelford][twitter]
-ORCID: [0000-0001-9826-3076](https://orcid.org/0000-0001-9826-3076)
+- [Bio303.practicals](https://github.com/richardjtelford/bio303.practicals) Ordination and gradient analysis
+
+
+## Contact me
+
+Twitter: [@richardjtelford][twitter]  
+ORCiD: [0000-0001-9826-3076](https://orcid.org/0000-0001-9826-3076)  
+Blog: [quantpalaeo](https://quantpalaeo.wordpress.com/)
+Cristin: [Cristin][Cristin]
+
 
 
 [twitter]: https://twitter.com/richardjtelford
-
-
-<!--
-**richardjtelford/richardjtelford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Cristin]: https://wo.cristin.no/as/WebObjects/cristin.woa/wa/personVis?type=PERSON&pnr=52548&la=en&instnr=184
